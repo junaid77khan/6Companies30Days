@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Minimize_the_Maximum_of_Two_Arrays;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Minimize_the_Maximum_of_Two_Arrays;
 class Solution {
     public static void main(String[] args) {
         System.out.println(minimizeSet(2, 7, 1, 3));

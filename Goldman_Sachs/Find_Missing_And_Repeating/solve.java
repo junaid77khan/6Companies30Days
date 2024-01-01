@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Find_Missing_And_Repeating;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Find_Missing_And_Repeating;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Combinational_Sum;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Combinational_Sum;
 
 import java.util.ArrayList;
 import java.util.List;

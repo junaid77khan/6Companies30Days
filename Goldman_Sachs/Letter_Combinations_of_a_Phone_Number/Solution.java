@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Letter_Combinations_of_a_Phone_Number;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Letter_Combinations_of_a_Phone_Number;
 
 import java.util.ArrayList;
 import java.util.HashMap;

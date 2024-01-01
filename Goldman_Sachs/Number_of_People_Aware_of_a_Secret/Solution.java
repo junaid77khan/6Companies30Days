@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Number_of_People_Aware_of_a_Secret;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Number_of_People_Aware_of_a_Secret;
 
 public class Solution {
      static long mod = (long)(1e9 + 7);

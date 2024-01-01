@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Run_Length_Encoding;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Run_Length_Encoding;
 
 public class GfG {
     public static void main(String[] args) {

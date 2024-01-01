@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Number_following_a_pattern;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Number_following_a_pattern;
 
 import java.util.Stack;
 

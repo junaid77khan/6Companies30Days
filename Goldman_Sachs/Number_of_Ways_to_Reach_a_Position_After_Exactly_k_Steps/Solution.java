@@ -1,4 +1,4 @@
-package com.Junaid.ReviseWithArsh.Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps;
+package com.Junaid.ReviseWithArsh.Goldman_Sachs.Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps;
 
 import java.util.Arrays;
 
