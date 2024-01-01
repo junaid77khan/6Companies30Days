@@ -7,6 +7,7 @@ public class Solution {
     public static void main(String[] args) {
         System.out.println(printMinNumberForPattern("IIDDD"));
     }
+
     static String printMinNumberForPattern(String S){
         StringBuilder str = new StringBuilder();
         Stack<Integer> stack = new Stack<Integer>();
